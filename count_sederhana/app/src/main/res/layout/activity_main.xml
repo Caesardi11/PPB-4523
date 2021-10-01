@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="20dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello Toast!"
+        android:textSize="26dp"
+        android:textColor="@color/biru"
+        />
+
+    <Button
+        android:id="@+id/tmblTOAST"
+        android:layout_width="match_parent"
+        android:text="TOAST"
+        android:textSize="30dp"
+        android:onClick="TOASTklik"
+        android:textColor="@color/jagung"
+        android:background="@color/biru"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/kaunter"
+        android:layout_width="match_parent"
+        android:text="0"
+        android:layout_height="wrap_content"
+        android:textSize="190dp"
+        android:textStyle="bold"
+        android:textColor="@color/jagung"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:background="@color/birumuda"
+        />
+
+    <Button
+        android:id="@+id/tmblCOUNT"
+        android:layout_width="match_parent"
+        android:text="COUNT"
+        android:textSize="30dp"
+        android:onClick="tmblkonter"
+        android:textColor="@color/jagung"
+        android:background="@color/biru"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
