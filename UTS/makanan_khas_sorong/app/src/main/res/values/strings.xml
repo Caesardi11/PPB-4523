@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">menu_makanan</string>
+
+    <string-array name="menu_makanan_khas">
+        <item>Papeda</item>
+        <item>Aunu Senebre</item>
+        <item>Ikan Bakar Sambal Colo-colo</item>
+        <item>Abon Gulung</item>
+        <item>Kue Lontar</item>
+        <item>Keripik Keladi</item>
+        <item>Es Kelapa Muda Asam Manis</item>
+    </string-array>
+
+    <string-array name="deskripsi">
+        <item>Merupakan bubur bertekstur lengket dengan bahan dasarnya berupa tepung sagu.
+            Papeda biasa disajikan dengan ikan kuah kuning.
+        </item>
+        <item>Merupakan makanan dengan bahan pokok yaitu nasi dan ikan teri.</item>
+        <item>Ikan dabu-dabu dibakar kemudian dibalur dengan sambal Colo-Colo yang terbuat
+            dari cabe, jeruk nipis, dan rempah lainnya.
+        </item>
+        <item>Roti abon gulung yang berisi abon dengan ukuran roti yang cukup besar.</item>
+        <item>Panganan yang memiliki cita rasa yang khas, enak dan cocok untuk lidah orang Indonesia.
+            Kue lontar memiliki bentuk yang mirip dengan pie susu atau chessetar yang terkenal.
+        </item>
+        <item>Keripik keladi terbuat dari jenis ubi keladi khas Papua. Keripiki keladi memiliki
+            tiga varian rasa seperti pedas, manis, dan gurih.
+        </item>
+        <item>Minuman yang memiliki rasa manis dari keaslian buah kelapa dan rasa asam dari
+            perasan air jeruk nipis.
+        </item>
+    </string-array>
+
+    <string-array name="bersambung">
+        <item>Rp30.000,00</item>
+        <item>Rp25.000,00</item>
+        <item>Rp40.000,00</item>
+        <item>Rp8.000,00/pcs</item>
+        <item>Rp5.000,00/pcs</item>
+        <item>Rp20.000,00</item>
+        <item>Rp10.000,00</item>
+    </string-array>
+
+    <string-array name="pesanan">
+        <item>TAMBAH PESANAN</item>
+        <item>TAMBAH PESANAN</item>
+        <item>TAMBAH PESANAN</item>
+        <item>TAMBAH PESANAN</item>
+        <item>TAMBAH PESANAN</item>
+        <item>TAMBAH PESANAN</item>
+        <item>TAMBAH PESANAN</item>
+    </string-array>
+
+</resources>
